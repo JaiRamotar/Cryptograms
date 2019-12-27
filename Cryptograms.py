@@ -1,11 +1,3 @@
-# ============================================================
-#
-# Student Name (as it appears on cuLearn): Jai Ramotar
-# Student ID (9 digits in angle brackets): <101094075>
-# Course Code (for this current semester): COMP1405B
-#
-# ============================================================
-
 '''
 This is the main function, responsible for the user interface.
 
